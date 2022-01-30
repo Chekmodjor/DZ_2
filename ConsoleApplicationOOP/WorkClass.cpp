@@ -1,6 +1,6 @@
 #include "WorkClass.h"
 void WorkClass::startWork() {
-    std::cout << "Hello Привет World!\n";
+    
 
     GoodBasic* universalPointer01 = new Freezer(2);
     static_cast<Freezer*>(universalPointer01)->toString();
@@ -12,6 +12,9 @@ void WorkClass::startWork() {
     static_cast<Freezer*>(universalPointer04)->toString();
     GoodBasic* universalPointer05 = new Freezer(5, 555, "Name5", "Description5", 55, 333, "color", "country", 3);
     static_cast<Freezer*>(universalPointer05)->toString();
+
+
+
     
 
    // Chipsi chips01;

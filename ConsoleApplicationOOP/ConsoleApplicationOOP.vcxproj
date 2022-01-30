@@ -144,12 +144,14 @@
     <ClCompile Include="Freezer.cpp" />
     <ClCompile Include="GoodBasic.cpp" />
     <ClCompile Include="Software.cpp" />
+    <ClCompile Include="Mushroom.cpp" />
     <ClCompile Include="WorkClass.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Chipsi.h" />
     <ClInclude Include="Freezer.h" />
     <ClInclude Include="GoodBasic.h" />
+    <ClInclude Include="Mushroom.h" />
     <ClInclude Include="Software.h" />
     <ClInclude Include="WorkClass.h" />
   </ItemGroup>
